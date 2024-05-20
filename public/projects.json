@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Project one",
+    "description": "This is a really awesome project that I worked on. It has a lot of cool features and I think you'll love it!",
+    "url": "#"
+  },
+  {
+    "title": "Project Two: Amazing Website",
+    "description": "I built this website from scratch and I think it turned out really well. Let me know what you think!",
+    "url": "#"
+  },
+  {
+    "title": "Project Three: Fun Mobile App",
+    "description": "I really enjoyed working on this app. It's designed to be fun and addictive, and I think I succeeded!",
+    "url": "#"
+  }
+]
