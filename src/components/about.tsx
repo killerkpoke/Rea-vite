@@ -4,7 +4,7 @@ import {
   GitHubIcon,
   YouTubeIcon,
 } from "./icons/social-media-icon";
-export function YourSelf() {
+export function About() {
   const social = [
     {
       media: "Linkedin",

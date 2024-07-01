@@ -57,7 +57,7 @@ export function Project() {
                   }}
                 >
                   <Card className="cursor-pointer">
-                    <a href={p.url}>
+                    <a href={p.url} target="_blank">
                       <CardContent className="p-4">
                         <img
                           key={index}

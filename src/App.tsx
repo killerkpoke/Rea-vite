@@ -1,6 +1,6 @@
 import "./App.css";
 import { ThemeProvider } from "@/components/theme-provider";
-import { YourSelf } from "./components/your-face";
+import { About } from "./components/about";
 import { NavBar } from "./components/navbar";
 import { Project } from "./components/project";
 import { Skills } from "./components/skill";
@@ -14,7 +14,7 @@ function App() {
           <NavBar></NavBar>
         </header>
         <main>
-          <YourSelf></YourSelf>
+          <About></About>
           <Skills></Skills>
           <Project></Project>
           <Contact></Contact>
