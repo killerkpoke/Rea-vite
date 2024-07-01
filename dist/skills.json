@@ -1,0 +1,78 @@
+{
+  "frontend": {
+    "language": {
+      "title": "Programming Languages",
+      "data": ["HTML", "CSS", "Javascript", "Typescript"]
+    },
+    "framework": {
+      "title": "Frameworks",
+      "data": ["React", "Vue", "Angular"]
+    },
+    "metaframework": {
+      "title": "Meta-Frameworks",
+      "data": ["NextJs", "NuxtJs"]
+    },
+    "library": {
+      "title": "Additional libraries",
+      "data": [
+        "Bootstrap",
+        "Tailwind CSS",
+        "Daisy UI",
+        "Shadcn UI",
+        "ThreeJs",
+        "Vitest",
+        "Cypress"
+      ]
+    }
+  },
+  "backend": {
+    "language": {
+      "title": "Programming Languages",
+      "data": ["Python", "Javascript", "C#"]
+    },
+    "framework": {
+      "title": "Frameworks",
+      "data": [
+        "Django",
+        "NodeJs",
+        "NestJs",
+        "Fastapi",
+        "ASP.NET",
+        ".NET Core",
+        "WPF/WinForms"
+      ]
+    },
+    "database": {
+      "title": "Databases",
+      "data": ["MSSQL", "SQLite", "MongoDB", "Drizzle ORM"]
+    },
+    "devops": {
+      "title": "Devops",
+      "data": ["Docker", "OKD/Openshift"]
+    },
+    "gamedevelop": {
+      "title": "Game Developement",
+      "data": ["Godot", "Unity"]
+    }
+  },
+  "softskill": {
+    "language": {
+      "title": "Languages",
+      "data": ["Hungarian", "English"]
+    },
+    "framework": {
+      "title": "Soft Skills",
+      "data": [
+        "Documentation",
+        "Agile development",
+        "Scrum",
+        "Jira",
+        "Leadership skills"
+      ]
+    },
+    "metaframework": {
+      "title": "Additional softwares",
+      "data": ["Figma", "Blender", "VS Code"]
+    }
+  }
+}

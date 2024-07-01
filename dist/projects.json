@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Portfolio site",
+    "description": "This portfolio site, rewritten in react with vite from the ground up for learning purpose to extend my knowledge about other Javascript frameworks",
+    "url": "https://github.com/killerkpoke/Rea-vite",
+    "img": "https://picsum.photos/id/104/3840/2160"
+  },
+  {
+    "title": "Custom Swagger",
+    "description": "Built custom Swagger frontend layer in a project with Microservice architecture in mind",
+    "url": "https://github.com/killerkpoke/Nuxt-Swagger",
+    "img": "https://picsum.photos/id/121/1600/1067"
+  },
+  {
+    "title": "Architect Designer software",
+    "description": "POC project for helping database architects daily life",
+    "url": "https://github.com/killerkpoke/Architect-design-system",
+    "img": "https://picsum.photos/id/122/4147/2756"
+  },
+  {
+    "title": "Pokemon Cards Project",
+    "description": "I built this project for visualize pokemons TCG cards. The project using Vue with Typescript and the pokemon API for data",
+    "url": "https://github.com/killerkpoke/PokemonCards",
+    "img": "https://picsum.photos/id/127/4032/2272"
+  },
+  {
+    "title": "Minesweeper Game",
+    "description": "Easy and simple Vue app for playing minesweeper in the browser",
+    "url": "https://github.com/killerkpoke/Vuesweeper",
+    "img": "https://picsum.photos/id/132/1600/1066"
+  },
+  {
+    "title": "Gormory",
+    "description": "Gormory is a WoW Armory like application. Using technologies, like Vue, Django DRF and Godot",
+    "url": "https://github.com/killerkpoke/Gormory",
+    "img": "https://picsum.photos/id/145/4288/2848"
+  },
+  {
+    "title": "Lava Lamp",
+    "description": "Lava lamp created in Godot with shader programming",
+    "url": "https://github.com/killerkpoke/GodotLamp",
+    "img": "https://picsum.photos/id/136/4032/2272"
+  }
+]
